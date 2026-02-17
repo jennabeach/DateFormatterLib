@@ -53,6 +53,9 @@ DateFormatterLib is a standard Java JAR, so it can be used in any IDE or with th
 - Compile with `javac -cp DateFormatterLib.jar MyApp.java`
 - Run with `java -cp .:DateFormatterLib.jar MyApp`
   - On Windows, replace `:` with `;` in the classpath.
+ 
+> Note: The JAR includes an optional TestApp class for demonstration purposes.  
+> You can run it directly with `java -jar DateFormatterLib.jar` to see example output
 
 ---
 
